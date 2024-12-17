@@ -84,6 +84,8 @@ meter {
 }
 
 body {
+    background-color: blanchedalmond;
+
     font-family: 'Jaro', sans-serif;
     color: #333131;
 }
